@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "abhj+JWEyeKZckntb8qneyHRUbwihBFLckIYGcYc+0IddQ0j8fa65DD5rIJWEvb3/j6Mjikx2dfgkht68otvcQ==",
+  "success": true,
+  "projectFilePath": "W:\\everythingSchool\\SEW\\music-player-sqlite-RickyRaveanu\\MusicPlayerLive\\MusicPlayerLive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\getou\\.nuget\\packages\\microsoft.data.sqlite\\7.0.3\\microsoft.data.sqlite.7.0.3.nupkg.sha512",
+    "C:\\Users\\getou\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.3\\microsoft.data.sqlite.core.7.0.3.nupkg.sha512",
+    "C:\\Users\\getou\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.4\\sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\getou\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
+    "C:\\Users\\getou\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\getou\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.4\\sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\getou\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
